@@ -1,0 +1,27 @@
+{
+  "name": "@soei/time",
+  "version": "1.1.2",
+  "description": "Format Date : 'YYYY-MM-DD (子|丑|丑|寅|寅|卯|卯|辰|辰|巳|巳|午|午|未|未|申|申|酉|酉|戌|戌|亥|亥|子)时 24h:mm:ss 周week' => '2023-12-25 子时 23:59:40 周一'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "day",
+    "diff",
+    "year",
+    "week",
+    "change",
+    "YYYY-MM-DD",
+    "M-D-YY",
+    "fire",
+    "dates",
+    "getDayNumberByMonthAndYear",
+    "days"
+  ],
+  "homepage": "https://alwbg.github.io",
+  "author": "soei | alwbg@163.com",
+  "license": "ISC"
+}
